@@ -1,0 +1,12 @@
+C:\Users\kuzne\source\repos\Laba_1_Forms\Laba_1_Forms\x64\Debug\Laba_1_Forms.vcxproj.AssemblyReference.cache
+C:\Users\kuzne\source\repos\Laba_1_Forms\Laba_1_Forms\x64\Debug\Laba_1_Forms.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\kuzne\source\repos\Laba_1_Forms\Laba_1_Forms\x64\Debug\Laba1Forms.MyForm.resources
+C:\Users\kuzne\source\repos\Laba_1_Forms\Laba_1_Forms\x64\Debug\Laba_1_Forms.vcxproj.GenerateResource.cache
+C:\Users\danya\Desktop\Laba_1_Forms\Laba_1_Forms\x64\Debug\Laba_1_Forms.vcxproj.AssemblyReference.cache
+C:\Users\danya\Desktop\Laba_1_Forms\Laba_1_Forms\x64\Debug\Laba_1_Forms.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\danya\Desktop\Laba_1_Forms\Laba_1_Forms\x64\Debug\Laba1Forms.MyForm.resources
+C:\Users\danya\Desktop\Laba_1_Forms\Laba_1_Forms\x64\Debug\Laba_1_Forms.vcxproj.GenerateResource.cache
+C:\Users\arteo\Desktop\Laba_1_Forms\Laba_1_Forms\x64\Debug\Laba_1_Forms.vcxproj.AssemblyReference.cache
+C:\Users\arteo\Desktop\Laba_1_Forms\Laba_1_Forms\x64\Debug\Laba_1_Forms.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\arteo\Desktop\Laba_1_Forms\Laba_1_Forms\x64\Debug\Laba1Forms.MyForm.resources
+C:\Users\arteo\Desktop\Laba_1_Forms\Laba_1_Forms\x64\Debug\Laba_1_Forms.vcxproj.GenerateResource.cache

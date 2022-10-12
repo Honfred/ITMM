@@ -1,0 +1,16 @@
+﻿  MyForm.cpp
+C:\Users\arteo\Desktop\Laba_1_Forms\Laba_1_Forms\MyString.h(14,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\arteo\Desktop\Laba_1_Forms\Laba_1_Forms\MyString.h(19,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\arteo\Desktop\Laba_1_Forms\Laba_1_Forms\MyString.h(97,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\arteo\Desktop\Laba_1_Forms\Laba_1_Forms\MyString.h(101,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\arteo\Desktop\Laba_1_Forms\Laba_1_Forms\MyString.h(194,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\arteo\Desktop\Laba_1_Forms\Laba_1_Forms\MyForm.h(16,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\arteo\Desktop\Laba_1_Forms\Laba_1_Forms\MyForm.h(277,30): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\arteo\Desktop\Laba_1_Forms\Laba_1_Forms\MyForm.h(292,26): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\arteo\Desktop\Laba_1_Forms\Laba_1_Forms\MyForm.h(296,26): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\arteo\Desktop\Laba_1_Forms\Laba_1_Forms\MyForm.h(370,26): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\arteo\Desktop\Laba_1_Forms\Laba_1_Forms\MyForm.h(374,26): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\arteo\Desktop\Laba_1_Forms\Laba_1_Forms\MyForm.h(403,26): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\arteo\Desktop\Laba_1_Forms\Laba_1_Forms\MyForm.h(407,26): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Laba_1_Forms.vcxproj -> C:\Users\arteo\Desktop\Laba_1_Forms\x64\Debug\Laba_1_Forms.exe
